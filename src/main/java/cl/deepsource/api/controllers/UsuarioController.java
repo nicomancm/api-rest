@@ -22,6 +22,7 @@ public class UsuarioController {
         listaUsuario.add(new Usuario(1, "nicolas", "dev"));
         listaUsuario.add(new Usuario(2, "daniel", "devop"));
         listaUsuario.add(new Usuario(3, "flamel", "sysadmin"));
+        listaUsuario.add(new Usuario(4, "Francisco", "EL JEFE"));
         return listaUsuario;
     }
 }
